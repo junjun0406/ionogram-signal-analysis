@@ -1,0 +1,12 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# PyCharm / IDE
+.idea/
+
+# OS
+.DS_Store
+
+# Data files (important!)
+*.sav
